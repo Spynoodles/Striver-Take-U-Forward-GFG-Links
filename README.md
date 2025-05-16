@@ -1,4 +1,5 @@
 So here is the entire story in short 
+
  -> Idk why but striver removed the links for the problems that were only available on gfg
  -> Frustruation to google the problems
  -> Neuron activation ; went to waybackmachine to download an older archive of takeuforward 
