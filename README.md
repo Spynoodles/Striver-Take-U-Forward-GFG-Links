@@ -15,6 +15,8 @@ The Story (in short):
 
 What’s in this repo:
 
+    **csv file - contains all the links**
+    
     archived_file.html – a snapshot of the old TakeUForward site.
 
     scraper.py – the script that extracts the missing GFG links.
